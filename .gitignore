@@ -1,0 +1,7 @@
+.idea
+*.pyc
+*.mp4
+*.html
+*/__pycache__
+
+!result_report/.gitkeep
